@@ -1,2 +1,2 @@
-# HEXS
-Hello World
+# Hello World, I'm HEXS 👋👋
+
