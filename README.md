@@ -56,6 +56,9 @@ Client/Vendor Collaboration </p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,bootstrap,vite,mint,nodejs,vscode)](https://skillicons.dev)
 
+<br>
+<br>
+
 <h2 align="center">👾 CONTRIBUTIONS</h2>
 
 <picture data-importer="pacman">
