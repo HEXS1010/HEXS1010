@@ -80,10 +80,10 @@ Client/Vendor Collaboration </p>
   </div>
 </div> -->
 
-<img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300" align="left">
+<img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="400" align="left">
 
 <div align="justify">
-  ### STILL CODING.......
+  <h3>STILL CODING.......</h3>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
