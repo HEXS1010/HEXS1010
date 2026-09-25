@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/logo.png">
+<img src="img/logo.png" alt="logo.hexs" width="150">
 
 # Hello World, I'm HEXS 👋👋
 
