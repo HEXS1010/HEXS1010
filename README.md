@@ -9,10 +9,10 @@
 <h2 align="center">TENTANG SAYA</h2>
 <table>
   <tr>
-    <td style="padding: 20px;" width="33%" valign="top">
+    <td width="33%" valign="top">
       <h3>🐞 Professional Bug Creator
 Since Day One.</h3>
-      <p>saya ada seorang pelajar yang terjun didunia TI. Saya saat ini saya masih menekuni Frontend dan tertarik dalam keamanan siber.</p>
+      <p>saya ada seorang pelajar yang menekuni Frontend dan tertarik dalam keamanan siber.</p>
     </td>
     <td width="33%" valign="top">
       <h3>✨ FRONTEND</h3>
