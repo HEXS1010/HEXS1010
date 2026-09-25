@@ -2,7 +2,7 @@
 
 <img src="img/logo.png" alt="logo.hexs" width="200">
 
-# Hello World, I'm HEXS 👋👋
+<h1>HELLO WORLD, I'M HEXS 👋👋</h1>
 
 Saya seorang Pelajar yang berminat keduania IT. Saya masih banyak belajar dan saya harap kita bisa berteman baik.
 
