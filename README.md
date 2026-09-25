@@ -102,9 +102,14 @@ const developer = {
   mood: "chill",
   water: true,
 
-  goals: ["learn", "build", "create", "never stop"],
+  goals: [
+    "learn", 
+    "build", 
+    "create", 
+    "never stop"
+  ],
 
-  motto: "Ide Jadi Kode, Kode Jadi Karya",
+  motto: "Enjoyyyy Pokoknya",
 };
 
 while (developer.status === "still coding...") {
