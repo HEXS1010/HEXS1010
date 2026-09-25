@@ -82,16 +82,35 @@ Client/Vendor Collaboration </p>
 
 <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="400" align="left">
 
-<div align="justify">
+<!-- <div align="justify">
   <h3>STILL CODING.......</h3>
+  <p>const life =  <br> status: "still coding...." <br> progress: "loading...." <br> bugs: infinity.</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
   <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-</div>
+</div> -->
 
+<div align="left">
 
+```js
+const life = {
+    status: "still coding...",
+    progress: "loading...",
+    bugs: Infinity,
+    motivation: true
+};
+
+function keepGoing() {
+    learn();
+    create();
+    fail();
+    tryAgain();
+}
+
+keepGoing();
+
+```
 </div>
