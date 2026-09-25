@@ -8,6 +8,38 @@
 
 <br>
 
+<img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="400" align="left">
+
+
+<div align="left">
+
+```js
+const developer = {
+  name: "HEXS",
+  status: "still coding...",
+  mood: "chill",
+  water: true,
+
+  goals: [
+    "learn", 
+    "build", 
+    "create", 
+    "never stop"
+  ],
+
+  motto: "Enjoyyyy Pokoknya",
+};
+
+while (developer.status === "still coding...") {
+  keepLearning();
+  keepBuilding();
+}
+```
+
+</div>
+
+<br>
+
 <h2 align="center">TENTANG SAYA</h2>
 <table width="100%" cellpadding="24" cellspacing="0" style="display: table; width: 100% !important; max-width: 100%;">
   <tr>
@@ -80,42 +112,4 @@ Client/Vendor Collaboration </p>
   </div>
 </div> -->
 
-<img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="400" align="left">
 
-<!-- <div align="justify">
-  <h3>STILL CODING.......</h3>
-  <p>const life =  <br> status: "still coding...." <br> progress: "loading...." <br> bugs: infinity.</p>
-  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
-</div> -->
-
-<div align="left">
-
-```js
-const developer = {
-  name: "HEXS",
-  status: "still coding...",
-  mood: "chill",
-  water: true,
-
-  goals: [
-    "learn", 
-    "build", 
-    "create", 
-    "never stop"
-  ],
-
-  motto: "Enjoyyyy Pokoknya",
-};
-
-while (developer.status === "still coding...") {
-  keepLearning();
-  keepBuilding();
-}
-```
-
-</div>
