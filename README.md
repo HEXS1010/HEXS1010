@@ -4,7 +4,7 @@
 
 <h1>HELLO WORLD, I'M HEXS 👋👋</h1>
 
-<p style="font-family: 'Comic Sans MS';" >Saya seorang Pelajar yang berminat keduania IT. Saya masih banyak belajar dan saya harap kita bisa berteman baik.</p>
+<h4 style="font-family: 'Comic Sans MS';" >Saya seorang Pelajar yang berminat keduania IT. Saya masih banyak belajar dan saya harap kita bisa berteman baik.</h4>
 
 ## SKILL & TOOLS
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github)](https://skillicons.dev)
