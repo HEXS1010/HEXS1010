@@ -10,8 +10,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🐞 Professional Bug Creator
-Since Day One.</h4>
+      <h3>🐞 Professional Bug Creator</h3>
       <p>saya ada seorang pelajar yang menekuni Frontend dan tertarik dalam keamanan siber.</p>
     </td>
     <td width="33%" valign="top">
