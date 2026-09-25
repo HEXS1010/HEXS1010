@@ -52,7 +52,7 @@ Client/Vendor Collaboration </p>
 
 <div align="center">
 
-## SKILL & TOOLS
+<h2>SKILL & TOOLS</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,bootstrap,vite,mint,nodejs,vscode)](https://skillicons.dev)
 
@@ -96,21 +96,21 @@ Client/Vendor Collaboration </p>
 <div align="left">
 
 ```js
-const life = {
-    status: "still coding...",
-    progress: "loading...",
-    bugs: Infinity,
-    motivation: true
+const developer = {
+  name: "HEXS",
+  status: "still coding...",
+  mood: "chill",
+  water: true,
+
+  goals: ["learn", "build", "create", "never stop"],
+
+  motto: "Ide Jadi Kode, Kode Jadi Karya",
 };
 
-function keepGoing() {
-    learn();
-    create();
-    fail();
-    tryAgain();
+while (developer.status === "still coding...") {
+  keepLearning();
+  keepBuilding();
 }
-
-keepGoing();
-
 ```
+
 </div>
