@@ -70,13 +70,13 @@ Client/Vendor Collaboration </p>
 <br>
 <br>
 
-<table width="100%" cellpadding="16" cellspacing="0">
+<table width="100%"  style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle" style="border: none; padding: 16px;">
       <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
     </td>
-    <td width="50%" valign="middle">
-      <h3>Judul</h3>
+    <td width="50%" valign="middle" style="border: none; padding: 16px;">
+      <h3>STATUS: STILL CODING......</h3>
       <p>Tulis kata-kata di sini.</p>
     </td>
   </tr>
