@@ -66,4 +66,20 @@ Client/Vendor Collaboration </p>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HEXS1010/HEXS1010/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HEXS1010/HEXS1010/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+<br>
+<br>
+
+<table width="100%" cellpadding="16" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
+    </td>
+    <td width="50%" valign="middle">
+      <h3>Judul</h3>
+      <p>Tulis kata-kata di sini.</p>
+    </td>
+  </tr>
+</table>
+
 </div>
