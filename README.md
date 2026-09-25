@@ -70,16 +70,14 @@ Client/Vendor Collaboration </p>
 <br>
 <br>
 
-<table width="100%" cellspacing="0" style="display: table; width: 100% !important; max-width: 100%; border-collapse: collapse; border: none;">
-  <tr>
-    <td width="60%" align="center" valign="middle" style="border: none; padding: 16px;">
-      <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
-    </td>
-    <td width="40%" valign="middle" style="border: none; padding: 16px;">
-      <h3>STATUS: STILL CODING......</h3>
-      <p>Emang susah</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; width: 100%; max-width: 100%;">
+  <div style="width: 60%; box-sizing: border-box; padding: 16px; text-align: center;">
+    <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
+  </div>
+  <div style="width: 40%; box-sizing: border-box; padding: 16px; text-align: left;">
+    <h3>STATUS: STILL CODING......</h3>
+    <p>Emang susah</p>
+  </div>
+</div>
 
 </div>
