@@ -9,7 +9,7 @@
 <h2 align="center">TENTANG SAYA</h2>
 <table>
   <tr>
-    <td width="35%" valign="top">
+    <td width="30%" valign="top">
       <h3>🐞 Professional Bug Creator
 Since Day One.</h3>
       <p>saya ada seorang pelajar yang terjun didunia koding sejak SMP. Saya saat ini saya masih menekuni Frontend dan tertarik dalam keamanan siber.</p>
