@@ -56,7 +56,9 @@ Client/Vendor Collaboration </p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,bootstrap,vite,mint,nodejs,vscode)](https://skillicons.dev)
 
+<h2 align="center">👾 CONTRIBUTIONS</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HEXS1010/HEXS1010/output/pacman.svg" alt="Pac-Man Contribution Graph">
+</p>
 </div>
-
-
