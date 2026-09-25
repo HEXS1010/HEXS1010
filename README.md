@@ -6,6 +6,8 @@
 
 </div>
 
+<br>
+
 <h2 align="center">TENTANG SAYA</h2>
 <table cellpadding="24" cellspacing="0">
   <tr>
@@ -46,10 +48,14 @@ Client/Vendor Collaboration </p>
   </tr>
 </table>
 
-<!-- <p><strong>Saya seorang Pelajar yang berminat keduania IT. <br> Saya masih banyak belajar dan saya harap kita bisa berteman baik.</strong></p> -->
+<br>
+
+<div align="center">
 
 ## SKILL & TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,bootstrap,vite,mint,nodejs,vscode)](https://skillicons.dev)
+
+</div>
 
 
