@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">TENTANG SAYA</h2>
-<table>
+<table cellpadding="16" cellspacing="0">
   <tr>
     <td width="33%" valign="top">
       <h3>🐞 Professional Bug Creator
