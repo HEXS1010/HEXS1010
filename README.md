@@ -4,7 +4,9 @@
 
 <h1>HELLO WORLD, I'M HEXS 👋👋</h1>
 
-<h2>TENTANG SAYA</h2>
+</div>
+
+<h2 align="center">TENTANG SAYA</h2>
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -44,4 +46,4 @@ Client/Vendor Collaboration </p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,bootstrap)](https://skillicons.dev)
 
-</div>
+
