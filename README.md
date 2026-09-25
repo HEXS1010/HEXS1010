@@ -70,7 +70,7 @@ Client/Vendor Collaboration </p>
 <br>
 <br>
 
-<table width="100%" align="center" cellspacing="0" style="display: table; width: 100% !important; max-width: 100%; border-collapse: collapse; border: none;">
+<table width="100%" cellspacing="0" style="display: table; width: 100% !important; max-width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td width="60%" align="center" valign="middle" style="border: none; padding: 16px;">
       <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
