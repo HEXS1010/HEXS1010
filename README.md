@@ -58,7 +58,9 @@ Client/Vendor Collaboration </p>
 
 <h2 align="center">👾 CONTRIBUTIONS</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HEXS1010/HEXS1010/output/pacman.svg" alt="Pac-Man Contribution Graph">
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HEXS1010/HEXS1010/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HEXS1010/HEXS1010/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HEXS1010/HEXS1010/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 </div>
