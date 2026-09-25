@@ -99,17 +99,16 @@ Client/Vendor Collaboration </p>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HEXS1010/HEXS1010/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+</div>
+
 <br>
 <br>
 
-<!-- <div align="center">
-  <div align="left">
-    <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
-  </div>
-  <div align="right">
-    <h3>STATUS: STILL CODING......</h3>
-    <p>Emang susah</p>
-  </div>
-</div> -->
+
+🎨 **Gif piksel retro punya @avedeto_93**
+<br>
+📎 [https://pixabay.com/id/gifs/seni-piksel-piksel-retro-kantor-12601/](https://pixabay.com/id/gifs/seni-piksel-piksel-retro-kantor-12601/)
+
+
 
 
