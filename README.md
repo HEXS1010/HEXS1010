@@ -40,7 +40,7 @@ while (developer.status === "still coding...") {
 
 <br>
 
-<h2 align="center">TENTANG SAYA</h2>
+<h2 align="center">>_TENTANG SAYA_<</h2>
 <table width="100%" cellpadding="24" cellspacing="0" style="display: table; width: 100% !important; max-width: 100%;">
   <tr>
     <td width="33%" valign="top">
@@ -84,14 +84,14 @@ Client/Vendor Collaboration </p>
 
 <div align="center">
 
-<h2>SKILL & TOOLS</h2>
+<h2>🛠️ SKILL & TOOLS 🛠️</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,tailwind,bootstrap,vite,mint,nodejs,vscode)](https://skillicons.dev)
 
 <br>
 <br>
 
-<h2 align="center">👾 CONTRIBUTIONS</h2>
+<h2 align="center">👾 CONTRIBUTIONS 👾</h2>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HEXS1010/HEXS1010/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
