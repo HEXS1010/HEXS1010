@@ -70,7 +70,7 @@ Client/Vendor Collaboration </p>
 <br>
 <br>
 
-<div>
+<!-- <div align="center">
   <div align="left">
     <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
   </div>
@@ -78,6 +78,20 @@ Client/Vendor Collaboration </p>
     <h3>STATUS: STILL CODING......</h3>
     <p>Emang susah</p>
   </div>
+</div> -->
+
+<img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300" align="left">
+
+<div align="justify">
+  ### STILL CODING.......
+  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
+  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
+  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
+  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
+  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
+  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
+  <p>halo balak gnujwehgbbjwebujgw najfgbwuaehuwaeo</p>
 </div>
+
 
 </div>
