@@ -70,11 +70,11 @@ Client/Vendor Collaboration </p>
 <br>
 <br>
 
-<div style="display: flex; align-items: center; width: 100%; max-width: 100%;">
-  <div style="width: 60%; box-sizing: border-box; padding: 16px; text-align: center;">
+<div>
+  <div align="left">
     <img src="img/avedeto-pixel-art-12601.gif" alt="GIF" width="300">
   </div>
-  <div style="width: 40%; box-sizing: border-box; padding: 16px; text-align: left;">
+  <div align="right">
     <h3>STATUS: STILL CODING......</h3>
     <p>Emang susah</p>
   </div>
